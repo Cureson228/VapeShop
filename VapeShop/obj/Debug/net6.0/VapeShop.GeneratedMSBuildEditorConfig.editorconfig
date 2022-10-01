@@ -15,16 +15,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\C# projects (console and ASP.NET Core)\VapeShop\VapeShop
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Catalog/Shared/_catalogLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xTaGFyZWRcX2NhdGFsb2dMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Catalog/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Vape.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWYXBlLmNzaHRtbA==
+[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Deliverence.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxpdmVyZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Garanty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYXJhbnR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Home/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/C\# projects (console and ASP.NET Core)/VapeShop/VapeShop/Views/Shared/Error.cshtml]

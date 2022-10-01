@@ -4,33 +4,36 @@ using VapeShop.Models;
 
 namespace VapeShop.Controllers
 {
+    
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        
 
-        public HomeController(ILogger<HomeController> logger)
+        [Route("/main")]
+        [Route("")]
+        public IActionResult Main()
         {
-            _logger = logger;
+            return View("Main");
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-        public IActionResult Vape()
-        {
-            return View();
-        }
 
-        public IActionResult Privacy()
+        [Route("/garanty")]
+        public IActionResult Garanty()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [Route("/dostavka")]
+        public IActionResult Deliverence()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
+
+        [Route("/contact")]
+        public IActionResult Contacts()
+        {
+            return View();
+        }
+        
     }
 }
